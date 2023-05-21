@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">KUR TAKİP</string>
+    <string name="yok">...</string>
+    <string name="bankalış">BANKA ALIS</string>,
+    <string name="bankasatıs">BANKA SATIs</string>
+    <string name="alış">ALIS FIYATI"</string>
+    <string name="satıs">SATIS FIYATI </string>
+    <string name="uyarı">Uyarı </string>
+    <string name="bilgi">"Bilgiler Türkiye Merkez Bankası verilerinden alınmıştır."</string>
+
+
+    <string-array name="para">
+
+        <item>ABD DOLARI</item>
+        <item>AVUSTRALYA DOLARI</item>
+        <item>DANİMARKA KRONU</item>
+        <item>EURO</item>
+        <item>İNGİLİZ STERLİNİ</item>
+        <item>İSVİÇRE FRANGI</item>
+        <item>İSVEÇ KRONU</item>
+        <item>KANADA DOLARI</item>
+        <item>KUVEYT DİNARI</item>
+        <item>NORVEÇ KRONU</item>
+        <item>SUUDİ ARABİSTAN RİYALİ</item>
+        <item>JAPON YENİ</item>
+        <item>BULGAR LEVASI</item>
+        <item>RUMEN LEYİ</item>
+        <item>RUS RUBLESİ</item>
+        <item>İRAN RİYALİ</item>
+        <item>ÇİN YUANI</item>
+        <item>PAKİSTAN RUPİSİ</item>
+        <item>KATAR RİYALİ</item>
+        <item>GÜNEY KORE WONU</item>
+        <item>AZERBAYCAN YENİ MANATI</item>
+        <item>BİRLEŞİK ARAP EMİRLİKLERİ DİRHEMİ</item>
+        <item>ÖZEL ÇEKME HAKKI (SDR)</item>
+    </string-array>
+    <string-array name="images">
+
+        <item>dollar</item>
+        <item>avusdollar</item>
+        <item>danikron</item>
+        <item>euro</item>
+        <item>ingilizsterlini</item>
+        <item>isvicrefrang</item>
+        <item>isveckronu</item>
+        <item>kanadadollar</item>
+        <item>kuveytdinar</item>
+        <item>norwaykrom</item>
+        <item>suudiriyal</item>
+        <item>japonyeni</item>
+        <item>bulgarlevas</item>
+        <item>lei2</item>
+        <item>rusrublesi</item>
+        <item>iranriyali</item>
+        <item>cinyuan</item>
+        <item>pakistanrupisi</item>
+        <item>katarriyali</item>
+        <item>gkorewonu</item>
+        <item>azermanat</item>
+        <item>barapdirhem</item>
+        <item>sdr</item>
+
+    </string-array>
+</resources>
